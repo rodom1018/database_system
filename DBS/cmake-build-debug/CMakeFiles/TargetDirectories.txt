@@ -1,0 +1,3 @@
+C:/github/DBS/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/github/DBS/cmake-build-debug/CMakeFiles/DBS.dir
+C:/github/DBS/cmake-build-debug/CMakeFiles/rebuild_cache.dir
